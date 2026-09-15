@@ -1,0 +1,12 @@
+Command Line Shortcuts
+pwd - print working directory
+cd - change directory
+- cd .. (go up a directory)
+ls - list services (what is in directory)
+touch - makes a new file
+clear (clears terminal)
+cp - copy file (cp [file you want to copy] [directory where you want it to go]
+mv - move file
+rm - remove file
+nano - write into file (arrows to get out)
+cat - print file to terminal
