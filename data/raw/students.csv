@@ -1,0 +1,31 @@
+student_id,first_name,last_name,program,year,age,active,entry_term,gpa,credits_completed,advisor
+S1001,Avery,Nguyen,Mathematics,1st,27,Yes,Fall 2023,3.51,72,Dr. Moreno
+S1002,Maya,Patel,Computer Science,1st,27,Yes,Spring 2026,2.71,108,Dr. Shah
+S1003,Noah,Garcia,Mathematics,1st,18,Yes,Spring 2024,2.81,18,Dr. Reed
+S1004,Sofia,Johnson,Computer Science,2nd,20,Yes,Spring 2026,3.05,63,Dr. Kim
+S1005,Ethan,Kim,Computer Science,4th,19,Yes,Spring 2025,,18,Dr. Kim
+S1006,Liam,Martinez,Statistics,3rd,27,Yes,Spring 2024,3.52,45,Dr. Moreno
+S1007,Olivia,Brown,Statistics,2nd,22,No,Spring 2026,3.75,36,Dr. Kim
+S1008,Lucas,Wilson,Data Science,4th,27,Yes,Spring 2024,2.89,45,Dr. Shah
+S1009,Emma,Chen,Data Science,3rd,27,Yes,Fall 2024,3.07,45,Dr. Moreno
+S1010,Mateo,Davis,Data Science,4th,27,Yes,Fall 2023,2.59,24,Dr. Reed
+S1011,Isabella,Lopez,Statistics,2nd,18,Yes,Fall 2024,3.22,54,Dr. Reed
+S1012,Elijah,Clark,Data Science,4th,26,Yes,Fall 2025,3.31,72,Dr. Reed
+S1013,Amara,Taylor,Data Science,4th,,Yes,Spring 2024,2.77,108,Dr. Kim
+S1014,Henry,Anderson,Mathematics,1st,20,Yes,Spring 2025,2.66,45,Dr. Shah
+S1015,Mia,Thomas,Statistics,3rd,23,Yes,Fall 2024,3.81,36,Dr. Shah
+S1016,Leo,Moore,Data Science,2nd,25,Yes,Spring 2026,3.31,96,Dr. Moreno
+S1017,Nora,Lewis,Mathematics,2nd,19,Yes,Spring 2025,2.88,96,Dr. Moreno
+S1018,Samuel,Hall,Computer Science,4th,27,Yes,Fall 2025,3.95,36,Dr. Kim
+S1019,Zoe,Allen,Statistics,4th,18,No,Spring 2025,3.3,18,Dr. Shah
+S1020,Daniel,Young,Mathematics,1st,22,Yes,Fall 2023,3.75,108,Dr. Shah
+S1021,Layla,King,Computer Science,2nd,22,Yes,Spring 2025,3.83,30,Dr. Shah
+S1022,Julian,Wright,Statistics,3rd,19,Yes,Spring 2025,,18,Dr. Shah
+S1023,Grace,Scott,Data Science,1st,19,Yes,Fall 2023,2.49,45,Dr. Moreno
+S1024,Owen,Green,Data Science,2nd,26,Yes,Spring 2026,3.73,45,Dr. Kim
+S1025,Chloe,Baker,Data Science,4th,19,Yes,Spring 2024,3.85,84,Dr. Moreno
+S1026,Isaac,Adams,Statistics,4th,23,Yes,Fall 2024,3.29,36,
+S1027,Elena,Nelson,Computer Science,2nd,27,Yes,Fall 2024,3.45,36,Dr. Kim
+S1028,Caleb,Hill,Mathematics,1st,20,No,Spring 2026,3.79,108,Dr. Reed
+S1029,Aria,Campbell,Data Science,2nd,,Yes,Spring 2025,2.58,54,Dr. Moreno
+S1030,Miles,Mitchell,Computer Science,4th,22,Yes,Fall 2024,,36,Dr. Kim

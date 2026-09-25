@@ -1,0 +1,9 @@
+course_id,department,course_number,course_title,credits,level,delivery
+C101,STA,141,Exploratory Data Analysis,3,Undergraduate,In Person
+C102,STA,270,Applied Statistics,3,Undergraduate,Hybrid
+C103,CS,126,Introduction to Computing,4,Undergraduate,In Person
+C104,MAT,239,Linear Algebra,3,Undergraduate,In Person
+C105,STA,444,Statistical Computing,3,Undergraduate,Online
+C106,STA,556,Statistics and Data Science Computing Workflows,3,Graduate,In Person
+C107,CS,345,Databases,3,Undergraduate,Online
+C108,MAT,442,Probability,3,Undergraduate,Hybrid
