@@ -1,0 +1,7 @@
+{
+  "source": "JSONPlaceholder users endpoint",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "retrieved_for": "STA 556 Week 5",
+  "raw_file": "..\\data\\raw\\users.json",
+  "processed_file": "..\\data\\processed\\users_processed.parquet"
+}
